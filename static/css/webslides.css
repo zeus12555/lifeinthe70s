@@ -1100,11 +1100,11 @@ h1 span {
 
 .text-intro-landing {
   color: white;
-  text-shadow: 0 0 40px rgba(0, 0, 0, 0.5); }
+  text-shadow: 0 0 40px rgba(108, 108, 108, 0.5); }
 
 .text-mode {
-  color: #4B8A08;
-  text-shadow: 0 0 40px rgba(0, 0, 0, 0.5); }
+  color: #8a087f;
+  text-shadow: 0 0 80px rgba(190, 189, 102, 0.718); }
 
 /* -- Emoji (you'll love this) -- */
 .text-emoji {
