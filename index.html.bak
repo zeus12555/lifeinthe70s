@@ -112,7 +112,7 @@
           <div class="card-50">
             <figure>
               <img src="static/images/70s/70er-jahre-mode-party-kleider-boots-lederjacke-strickwaren.jpg" alt="Mode">
-            
+
             </figure>
             <!-- end figure-->
             <div class="flex-content">
@@ -126,82 +126,8 @@
         </section>
 
 
-
-
-
-          <div class="wrap">
-            <h2>Quiz</h2>
-            <ul class="flexblock features">
-              <li>
-                <div>
-                  <h2>
-                    <span>&rarr;</span>
-                    1.
-                  </h2>
-                  Wo fand die Schwester von Angus und Malcom das Kürzel für den Bandnamen AC/DC?
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    <svg class="fa-link">
-                      <use xlink:href="#fa-link"></use>
-                    </svg>
-                    2.
-                  </h2>
-                  Was bedeutet AC/DC?
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    <svg class="fa-clock-o">
-                      <use xlink:href="#fa-clock-o"></use>
-                    </svg>
-                    3.
-                  </h2>
-                  Aus welchem Land kommt die Popgruppe ABBA?
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    
-                    4.
-                  </h2>
-                  Aus welchen Paaren besteht die Popgruppe ABBA?
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    <svg class="fa-text-height">
-                      <use xlink:href="#fa-text-height"></use>
-                    </svg>
-                    5.
-                  </h2>
-                  Nennt mir drei Materialen die in den 70er für Mode verwendet wurden?
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    <span>6<sup>.</sup></span>
-                    
-                  </h2>
-                  Welche zwei Bands habe ich noch gennant?                                                                                                   
-                </div>
-              </li>
-            </ul>
-          </div>
-        </section>
-  
-
         
-		      <section>
-			  
-			  
-		
+		<section>
           <div class="wrap">
             <h2>Quiz</h2>
             <ul class="flexblock features">
@@ -306,24 +232,14 @@
               </li>
               <li>
                 <div>
-                  <h2>
-                    
-                    
-                  </h2>
-				  
-				  
+                  <h2> </h2>  
 				  Aus Schweden.
                 </div>
               </li>
               <li>
                 <div>
-                  <h2>
-                    
-                    
-                  </h2>
-				   
-				   
-				   Agnetha Fältskog und Björn Ulvaeus sowie Benny Andersson und Anni-Frid.
+                  <h2> </h2>
+					Agnetha Fältskog und Björn Ulvaeus sowie Benny Andersson und Anni-Frid.
                 </div>
               </li>
               <li>
